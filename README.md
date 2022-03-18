@@ -1,2 +1,3 @@
 # Logistic-Regression
-TBD
+
+Predict if the Titanic's passenger will survive the ship crash using Logistic Regression algorithm.  
